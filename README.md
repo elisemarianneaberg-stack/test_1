@@ -1,5 +1,6 @@
 # Programmering – GitHub för designers
 
+Kolla in:
 En enkel kurs i GitHub för UX-designers, ungefär 3 timmar. Eleverna lägger upp sin onepager från HTML/CSS-kursen och lär sig:
 
 | Del | Kapitel |
